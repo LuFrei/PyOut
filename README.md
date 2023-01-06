@@ -1,5 +1,3 @@
-# Project-AC
-
 ## PyOut
 
 BreakOut clone made with PyGame
